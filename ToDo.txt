@@ -1,0 +1,44 @@
+﻿
+DOMANDE VELOCI A STEFANO:
+1- Il cast perchè serve a volte?
+2- Sistemare avvertimenti di tutti quei console.readline (come nel row.clone())
+3- A che servono i field se mai usati?
+4- Sorgenti e soluzione in cartelle diverse?
+5- Errore installation_path dichiarato senza spazi
+6- Senso della cartella \debug\net6.0?
+7- Chiarire questione namespace: cosa accade se non combacia con la cartella?
+8- In che cartella mettere le offerte generate .docx e .pdf?
+9- File di config, come gestirlo, cosa metterci dentro (Banalmente: lo uso quando mi serve?)
+10- Differenze tra code 2022 (soprattutto nella gestione estensioni)
+
+
+
+--- IL DATABASE DEVE PER FORZA ESSERE UN SERVER?)))))))) ANCHE SE LOCALE????????????
+
+
+
+
+
+TO DO:
+1- Inserire metodi IsNumeric e IsPercentual nella classe articolo (???)
+2- Implementare i Log
+3- Generare pdf tramite ITextSharp
+
+
+LEZIONI FCAMUSO:
+1- Riguardare tutte le lezioni da classi a this deconstruct (anche array)
+2- WPF
+3- Finire lezioni
+
+
+
+
+
+ROADMAP:
+- Finire versione 0.1 del programma: (Da aggiungere funzioni di modifica off e cl, aggiungere servizi classe servizio e ordine(serve ereditarietà), invio tramite mail)
+
+- Pensare alla struttura dei database (db per clienti, db per offerte, db per ordini... ne servono altri?)
+
+- Iniziare v1.0 del programma (Interfaccia grafica con WPF, mantenendo PROBABILMENTE i file xml)
+
+- Iniziare v2.0 del programma (Passare al database locale tramite SQLite su WPF se non fatto di già nella v1.0)

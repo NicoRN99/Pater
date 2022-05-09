@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cliente nickname="" id_cliente="" partita_iva="">
+
+
+    <società>
+    </società>
+
+
+    <sede>
+
+        <stato>
+        </stato>
+
+        <provincia>
+        </provincia>
+
+        <città>
+        </città>
+
+        <indirizzo>
+        </indirizzo>
+
+        <cap>
+        </cap>
+
+    </sede>
+
+
+    <referenti>
+    </referenti>
+
+
+</cliente>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<articolo>
+
+
+    <modello>
+    </modello>
+
+    <tipovendita>
+    </tipovendita>
+
+    <descrizione>
+    </descrizione>
+
+    <codice_articolo>
+    </codice_articolo>
+
+    <quantità>
+    </quantità>
+
+    <listino>
+    </listino>
+
+    <costoVG>
+    </costoVG>
+
+    <prezzo_di_vendita>
+    </prezzo_di_vendita> <!-- 2 possibilità: inserire prezzo o percentuale --> 
+
+    <percentuale_scontoVG>
+    </percentuale_scontoVG> <!-- calcolata in AUTOMATICO: (diff/tot)*100 -->
+
+    <prezzo_totale>
+    </prezzo_totale> <!-- prezzo_di_vendita x quantità --> 
+
+
+
+</articolo>
